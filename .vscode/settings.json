@@ -1,0 +1,11 @@
+{
+  "editor.acceptSuggestionOnEnter": "off",
+  "files.associations": {
+    "iostream": "cpp"
+  },
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on"
+  },
+  "emmet.showSuggestionsAsSnippets": true
+}
