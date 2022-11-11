@@ -28,14 +28,14 @@ public:
         {
         case 1:
             cout << "\n ********** STUDENT INFORMATION **********" << endl;
-            cout << "Name:- Priyanshu Sharma " << endl;
+            cout << "Name:- Aditya Anand " << endl;
             cout << "Class:- B.C.A." << endl;
             cout << "Semester:- 3rd" << endl;
             cout << "Group:- A" << endl;
-            cout << "Class Roll No.:- 30" << endl;
-            cout << "Exam Roll No.:- 215055" << endl;
-            cout << "Registration No.:- 20BAVGCS030" << endl;
-            cout << "Contact No.:- 7370856925" << endl;
+            cout << "Class Roll No.:- 82" << endl;
+            cout << "Exam Roll No.:- 215019" << endl;
+            cout << "Registration No.:- 20BAVGCS082" << endl;
+            cout << "Contact No.:- 7717756375" << endl;
             break;
 
         case 2:
@@ -149,7 +149,7 @@ public:
 
     void end()
     {
-        cout << "Code is written by SANKET KUMAR /n Thank you. \n Bye Bye..." << endl;
+        cout << "Code is written by Aditya Anand /n Thank you. \n Bye Bye..." << endl;
         //  return 0;
     }
 };
